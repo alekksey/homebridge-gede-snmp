@@ -1,7 +1,7 @@
 # homebridge-gede-snmp
 ### This plugin besed on APC UPS SNMP plugin for homebridge - Version 1.2.0
-https://www.npmjs.com/package/homebridge-apc-snmp  \
-https://git.multilan.de/tarek/homebridge-apc-snmp-platform.git
+; https://www.npmjs.com/package/homebridge-apc-snmp  \
+; https://git.multilan.de/tarek/homebridge-apc-snmp-platform.git
 #### Not Tested yet
 #### Should work with an GE DE LP33 (SUA750RMI2U) with the SNMP/WEB Card
 
